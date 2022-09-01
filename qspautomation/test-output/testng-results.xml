@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="17" total="18" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Smoke test case 6]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55" started-at="2022-08-31T10:07:51 IST" finished-at="2022-08-31T10:07:51 IST">
+    <groups>
+      <group name="SMOKE">
+        <method signature="Flag6.st6()[pri:0, instance:testngpack.Flag6@3712b94]" name="st6" class="testngpack.Flag6"/>
+      </group> <!-- SMOKE -->
+    </groups>
+    <test name="Default test" duration-ms="55" started-at="2022-08-31T10:07:51 IST" finished-at="2022-08-31T10:07:51 IST">
+      <class name="testngpack.Flag6">
+        <test-method status="PASS" signature="st6()[pri:0, instance:testngpack.Flag6@3712b94]" name="st6" duration-ms="10" started-at="2022-08-31T10:07:51 IST" finished-at="2022-08-31T10:07:51 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke test case 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st6 -->
+      </class> <!-- testngpack.Flag6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
